@@ -14,4 +14,4 @@ Adminitrador de srvidores
 - Rapido y furioso
 
 ### Descripción de la foto:
-![Nombre](Transformers.jpg)
+![Nombre](1)
